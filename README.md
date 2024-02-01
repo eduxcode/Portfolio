@@ -1,4 +1,4 @@
-﻿# Davi Soares - Portfolio Pessoal
+﻿# Davi Soares - Portfolio
 
 Site de portfólio pessoal totalmente responsivo, responsivo para todos os dispositivos, construído em HTML, CSS e JavaScript.
 
