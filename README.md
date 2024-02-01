@@ -10,7 +10,7 @@ Site de portfólio pessoal totalmente responsivo, responsivo para todos os dispo
 
 ## Contato
 
-Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://www.instagram.com/eduxcode/).
+Se você quiser entrar em contato comigo, pode entrar em contato comigo em [Twitter](https://twitter.com/DavisoaresBaka).
 
 ## Licensa
 
